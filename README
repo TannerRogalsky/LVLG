@@ -1,2 +1,5 @@
 This is the readme.
 Run the Main class.
+
+Required pathfinding library can be found here: http://www.cokeandcode.com/pathfinder/PathFindingTutorial/pathfinding.zip
+Or as part of the Slick library here: http://slick.cokeandcode.com/
